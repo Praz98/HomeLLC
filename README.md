@@ -88,8 +88,7 @@ Best alpha using built-in LassoCV: 0.01471
 Features with zero coef are eliminated 
 
 METRICS 
-
-MSE = 58.2454546664891 RMSE = 7.631870980728716 R2 = 0.7347
+MSE = 56.691090505213886 RMSE = 7.529348610949946 R2 = 0.7418
 
  the R² is 0.7347. This means that the independent variables in your regression model explain approximately 73.47% of the variance in the dependent variable. It indicates a reasonably good fit of the model to the data.
 
