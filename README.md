@@ -92,7 +92,7 @@ MSE = 56.691090505213886 RMSE = 7.529348610949946 R2 = 0.7418
 
  the R² is 0.7347. This means that the independent variables in your regression model explain approximately 73.47% of the variance in the dependent variable. It indicates a reasonably good fit of the model to the data.
 
-In summary, MSE and RMSE measure the accuracy of a regression model, with RMSE providing a more interpretable error metric. R-squared (R²) quantifies how well the model explains the variation in the dependent variable, with higher values indicating a better fit. In your specific case, the model has an MSE of 58.2454, an RMSE of 7.6319, and an R² of 0.7347, indicating that the model is reasonably accurate and explains a significant portion of the variance in the dependent variable.
+In summary, MSE and RMSE measure the accuracy of a regression model, with RMSE providing a more interpretable error metric. R-squared (R²) quantifies how well the model explains the variation in the dependent variable, with higher values indicating a better fit. In this case, the model has an MSE of 58.2454, an RMSE of 7.6319, and an R² of 0.7347, indicating that the model is reasonably accurate and explains a significant portion of the variance in the dependent variable.
 NOTE: data considered from 2000-2021 as per publicly available data 
 
 
